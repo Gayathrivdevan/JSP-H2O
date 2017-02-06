@@ -30,4 +30,4 @@ And the frontend is a JSP based application - Yes, JSP.
 
 If all is good, thinks should work great!
 
-
+Further link for help -> https://github.com/h2oai/h2o-3/blob/master/h2o-docs/src/product/howto/POJO_QuickStart.md
