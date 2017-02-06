@@ -3,7 +3,7 @@ How do you connect a front end to a prediction engine?
 Here the engine is H2O prediction algorithm available as a POJO.
 And the frontend is a JSP based application - Yes, JSP.
 
-##This is bare bones. There is not interesting graphics. It just tells you how you can connect a front end to a prediction back end. What you do from there is up to your imagination. 
+##This is bare bones. There are not interesting graphics (Actually there are not graphics). It just tells you how you can connect a front end to a prediction back end. What you do from there is up to your imagination. 
 
 ##What you need for this. 
 
